@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@nx-sample/data": ["libs/data/src/index.ts"],
-      "@nx-sample/ui": ["libs/ui/src/index.ts"]
+      "@nx-sample/ui": ["libs/ui/src/index.ts"],
+      "@nx-sample/home": ["libs/home/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

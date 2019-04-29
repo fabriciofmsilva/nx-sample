@@ -1,6 +1,8 @@
 import * as React from 'react';
 import { Component } from 'react';
 
+import { Home } from '@nx-sample/home';
+
 import './app.scss';
 
 export class App extends Component {
@@ -8,6 +10,7 @@ export class App extends Component {
     const title = 'frontend';
     return (
       <div>
+        <Home />
         <div style={{ textAlign: 'center' }}>
           <h1>Welcome to {title}!</h1>
           <img

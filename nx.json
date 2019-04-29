@@ -28,6 +28,9 @@
     },
     "frontend-e2e": {
       "tags": []
+    },
+    "home": {
+      "tags": []
     }
   }
 }

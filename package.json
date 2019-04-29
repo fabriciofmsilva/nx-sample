@@ -28,6 +28,8 @@
   },
   "private": true,
   "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
     "@nestjs/common": "5.5.0",
     "@nestjs/core": "5.5.0",
     "@angular/animations": "^7.0.0",
@@ -44,6 +46,9 @@
   },
   "devDependencies": {
     "ts-jest": "24.0.0",
+    "@types/react": "16.8.4",
+    "@types/react-dom": "16.8.2",
+    "react-testing-library": "6.0.0",
     "@nrwl/builders": "7.8.3",
     "jest": "24.1.0",
     "@types/jest": "24.0.9",

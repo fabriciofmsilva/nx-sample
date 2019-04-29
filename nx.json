@@ -22,6 +22,12 @@
     },
     "ui": {
       "tags": []
+    },
+    "frontend": {
+      "tags": []
+    },
+    "frontend-e2e": {
+      "tags": []
     }
   }
 }
